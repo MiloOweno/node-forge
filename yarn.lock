@@ -17449,10 +17449,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/url-parse@npm:^1.4.8":
-  version: 1.4.8
-  resolution: "@types/url-parse@npm:1.4.8"
-  checksum: 44a5e96ed4b579c43750f3578bfa9165f97a359c3b2a85ee126e9c16db964f6ea105e152afd3d1adbd15850a8b812043215f3820112177bb4255a60b432dbd85
+"@types/url-parse@npm:^1.4.11":
+  version: 1.4.11
+  resolution: "@types/url-parse@npm:1.4.11"
+  checksum: 3e289d184b03d0b0203bccdff00efc1388db2ad8bba4af094201bf3ea5d001f36674ce1ee1764b8906b786a2de625dbc5d76b63ac68e2a3383a93acfe49e01b8
   languageName: node
   linkType: hard
 
@@ -33849,7 +33849,7 @@ __metadata:
     "@types/react-native-video": ^5.0.14
     "@types/react-test-renderer": ^18.0.0
     "@types/redux-mock-store": ^1.0.3
-    "@types/url-parse": ^1.4.8
+    "@types/url-parse": ^1.4.11
     "@types/valid-url": ^1.0.4
     "@typescript-eslint/eslint-plugin": ^7.10.0
     "@typescript-eslint/parser": ^7.10.0
@@ -34076,7 +34076,7 @@ __metadata:
     unicode-confusables: ^0.1.1
     uri-js: ^4.4.1
     url: 0.11.0
-    url-parse: 1.5.9
+    url-parse: 1.5.10
     uuid: ^8.3.2
     valid-url: 1.0.9
     viem: ^2.28.0
@@ -43888,13 +43888,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"url-parse@npm:1.5.9":
-  version: 1.5.9
-  resolution: "url-parse@npm:1.5.9"
+"url-parse@npm:1.5.10":
+  version: 1.5.10
+  resolution: "url-parse@npm:1.5.10"
   dependencies:
     querystringify: ^2.1.1
     requires-port: ^1.0.0
-  checksum: 27bb2bec4736bb89837bc0359bd6f9f7698888b09f3b40fa9c9ce2c3971150b4a529a3ede3dcd639a2e89681b8a894e9166972d886d2c0e94b4fb32a8db7573a
+  checksum: fbdba6b1d83336aca2216bbdc38ba658d9cfb8fc7f665eb8b17852de638ff7d1a162c198a8e4ed66001ddbf6c9888d41e4798912c62b4fd777a31657989f7bdf
   languageName: node
   linkType: hard
 
