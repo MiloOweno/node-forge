@@ -186,7 +186,7 @@
     "@craftzdog/react-native-buffer": "^6.1.0",
     "@deeeed/hyperliquid-node20": "^0.23.1-node20.1",
     "@ethersproject/abi": "^5.7.0",
-    "@keystonehq/bc-ur-registry-eth": "^0.21.0",
+    "@keystonehq/bc-ur-registry-eth": "^0.22.1",
     "@keystonehq/ur-decoder": "^0.12.2",
     "@lavamoat/react-native-lockdown": "^0.0.2",
     "@ledgerhq/react-native-hw-transport-ble": "^6.34.1",

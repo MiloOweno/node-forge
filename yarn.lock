@@ -6196,15 +6196,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@keystonehq/bc-ur-registry-eth@npm:^0.21.0":
-  version: 0.21.0
-  resolution: "@keystonehq/bc-ur-registry-eth@npm:0.21.0"
+"@keystonehq/bc-ur-registry-eth@npm:^0.22.1":
+  version: 0.22.1
+  resolution: "@keystonehq/bc-ur-registry-eth@npm:0.22.1"
   dependencies:
     "@ethereumjs/util": ^9.0.3
     "@keystonehq/bc-ur-registry": ^0.7.0
     hdkey: ^2.0.1
     uuid: ^8.3.2
-  checksum: aaf1520f918ee297bdeb00bef4610f862600be74ad30926bebfff17d3e982cc23cfbd2c63ada5f3362dc153a1ab10aa78eba68c9cec3b42dccff182a6f18107e
+  checksum: d8effcca1443464c8cd7e2247dd7a49cc8221cb9f34377400a0bba4363a02cd818ed8125f9106a95146174d170959e917ddbe1eabb1376f07f90d71148b1aea5
   languageName: node
   linkType: hard
 
@@ -33669,7 +33669,7 @@ __metadata:
     "@img/sharp-libvips-darwin-arm64": ^1.2.1
     "@img/sharp-libvips-linux-x64": ^1.2.1
     "@img/sharp-linux-x64": ^0.34.3
-    "@keystonehq/bc-ur-registry-eth": ^0.21.0
+    "@keystonehq/bc-ur-registry-eth": ^0.22.1
     "@keystonehq/ur-decoder": ^0.12.2
     "@lavamoat/allow-scripts": ^3.0.4
     "@lavamoat/git-safe-dependencies": ^0.2.1
