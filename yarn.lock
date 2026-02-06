@@ -28458,6 +28458,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"fs-extra@npm:^11.3.3":
+  version: 11.3.3
+  resolution: "fs-extra@npm:11.3.3"
+  dependencies:
+    graceful-fs: ^4.2.0
+    jsonfile: ^6.0.1
+    universalify: ^2.0.0
+  checksum: fb2acabbd1e04bcaca90eadfe98e6ffba1523b8009afbb9f4c0aae5efbca0bd0bf6c9a6831df5af5aaacb98d3e499898be848fb0c03d31ae7b9d1b053e81c151
+  languageName: node
+  linkType: hard
+
 "fs-extra@npm:^7.0.1":
   version: 7.0.1
   resolution: "fs-extra@npm:7.0.1"
@@ -33940,7 +33951,7 @@ __metadata:
     expo-image: ~2.0.7
     expo-sensors: ~14.0.2
     fast-equals: ^5.2.2
-    fs-extra: ^10.1.0
+    fs-extra: ^11.3.3
     fuse.js: 3.4.4
     ganache: ^7.9.2
     he: ^1.2.0
